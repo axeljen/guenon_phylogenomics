@@ -16,3 +16,8 @@ Custom python scripts used in Jensen et al. 2023.
 
 ### Mitochondrial phylogeny
 The following scripts were used to parse and process the mitochondrial assemblies, prior to phylogenetic analyses:
+- circularizeAndRotated.py
+- codonChopper.py
+- concatSequences.py
+- extractPartitions.py
+- subsetSequence.py
